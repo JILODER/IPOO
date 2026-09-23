@@ -1,0 +1,9 @@
+#BlueJ class context
+#Wed Sep 23 19:38:15 ART 2026
+comment0.target=Persona
+comment1.params=nombre edad sexo
+comment1.target=Persona(java.lang.String, int, java.lang.String)
+comment2.target=java.lang.String getNombre()
+comment3.target=int getEdad()
+comment4.target=java.lang.String getSexo()
+numComments=5

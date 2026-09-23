@@ -1,0 +1,11 @@
+#BlueJ class context
+#Wed Sep 23 19:57:38 ART 2026
+comment0.target=Lugar
+comment1.params=provincia localidad calle numeroCalle
+comment1.target=Lugar(java.lang.String, java.lang.String, java.lang.String, int)
+comment2.target=java.lang.String getDireccion()
+comment3.target=java.lang.String getProvincia()
+comment4.target=java.lang.String getLocalidad()
+comment5.target=java.lang.String getCalle()
+comment6.target=int getNumeroCalle()
+numComments=7

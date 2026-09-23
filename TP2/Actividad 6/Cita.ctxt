@@ -1,0 +1,14 @@
+#BlueJ class context
+#Wed Sep 23 20:17:52 ART 2026
+comment0.target=Cita
+comment1.params=nombre edad sexo provincia localidad calle numeroCalle fechaCompacta importancia
+comment1.target=Cita(java.lang.String, int, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, int, int)
+comment2.params=n
+comment2.target=void cambiarPriori(int)
+comment3.params=fechaCompacta
+comment3.target=void cambiarFecha(int)
+comment4.target=Persona getContacto()
+comment5.target=Lugar getDireccion()
+comment6.target=java.lang.String getFecha()
+comment7.target=int getImportancia()
+numComments=8
