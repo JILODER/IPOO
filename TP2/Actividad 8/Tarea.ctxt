@@ -1,0 +1,7 @@
+#BlueJ class context
+#Tue Sep 29 22:00:48 ART 2026
+comment0.target=Tarea
+comment1.params=descrip anio mes dia priori unaPersona
+comment1.target=Tarea(java.lang.String, int, int, int, int, Persona)
+comment2.target=java.lang.String getFechaVencimiento()
+numComments=3
