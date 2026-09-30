@@ -1,0 +1,6 @@
+#BlueJ class context
+#Wed Sep 30 17:52:53 ART 2026
+comment0.target=Visita
+comment1.params=anio mes dia persona museo obraDestacada
+comment1.target=Visita(int, int, int, Persona, Museo, ObraDeArte)
+numComments=2

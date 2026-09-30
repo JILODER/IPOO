@@ -1,0 +1,6 @@
+#BlueJ class context
+#Wed Sep 30 17:37:42 ART 2026
+comment0.target=Persona
+comment1.params=nombreCompleto dni domicilio email telefono
+comment1.target=Persona(java.lang.String, int, java.lang.String, java.lang.String, long)
+numComments=2

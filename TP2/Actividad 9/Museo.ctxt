@@ -1,0 +1,6 @@
+#BlueJ class context
+#Wed Sep 30 17:38:39 ART 2026
+comment0.target=Museo
+comment1.params=nombre direccion ciudad director
+comment1.target=Museo(java.lang.String, java.lang.String, java.lang.String, Persona)
+numComments=2
