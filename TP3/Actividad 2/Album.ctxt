@@ -1,0 +1,18 @@
+#BlueJ class context
+#Tue Oct 06 17:28:02 ART 2026
+comment0.target=Album
+comment1.target=Album()
+comment10.target=java.lang.String toString()
+comment2.params=nombre
+comment2.target=void asignarNombre(java.lang.String)
+comment3.target=java.lang.String getNombre()
+comment4.params=f
+comment4.target=void agregarFoto(Foto)
+comment5.params=nuevasFotos
+comment5.target=void agregarFotos(java.util.List)
+comment6.params=f
+comment6.target=void eliminarFoto(Foto)
+comment7.target=void limpiarAlbum()
+comment8.target=int cantidadFotos()
+comment9.target=java.util.List getFotos()
+numComments=11

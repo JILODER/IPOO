@@ -1,0 +1,8 @@
+#BlueJ class context
+#Tue Oct 06 17:23:59 ART 2026
+comment0.target=Foto
+comment1.params=nombre
+comment1.target=Foto(java.lang.String)
+comment2.target=java.lang.String getNombre()
+comment3.target=java.lang.String toString()
+numComments=4
