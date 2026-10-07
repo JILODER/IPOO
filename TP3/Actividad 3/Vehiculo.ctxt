@@ -1,0 +1,13 @@
+#BlueJ class context
+#Wed Oct 07 15:19:57 ART 2026
+comment0.target=Vehiculo
+comment1.target=float getVelocidad()
+comment2.params=velocidadExtra
+comment2.target=void acelerar(float)
+comment3.params=velocidadMenos
+comment3.target=void frenar(float)
+comment4.target=float getVelocidadMax()
+comment5.target=int getCantRuedas()
+comment6.target=java.lang.String getMarca()
+comment7.target=java.lang.String getModelo()
+numComments=8
