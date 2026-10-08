@@ -1,0 +1,10 @@
+#BlueJ class context
+#Thu Oct 08 13:56:53 ART 2026
+comment0.target=Cuadrado
+comment1.params=lado color
+comment1.target=Cuadrado(double, java.lang.String)
+comment2.target=double calcularArea()
+comment3.target=double getLado()
+comment4.params=lado
+comment4.target=void setLado(double)
+numComments=5

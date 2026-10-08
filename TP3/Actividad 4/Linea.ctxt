@@ -1,0 +1,19 @@
+#BlueJ class context
+#Thu Oct 08 14:06:08 ART 2026
+comment0.target=Linea
+comment1.params=x1 y1 x2 y2 color
+comment1.target=Linea(double, double, double, double, java.lang.String)
+comment10.params=y2
+comment10.target=void setY2(double)
+comment2.target=double calcularArea()
+comment3.target=double getX1()
+comment4.params=x1
+comment4.target=void setX1(double)
+comment5.target=double getY1()
+comment6.params=y1
+comment6.target=void setY1(double)
+comment7.target=double getX2()
+comment8.params=x2
+comment8.target=void setX2(double)
+comment9.target=double getY2()
+numComments=11

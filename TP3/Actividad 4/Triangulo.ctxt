@@ -1,0 +1,13 @@
+#BlueJ class context
+#Thu Oct 08 14:03:31 ART 2026
+comment0.target=Triangulo
+comment1.params=base altura color
+comment1.target=Triangulo(double, double, java.lang.String)
+comment2.target=double calcularArea()
+comment3.target=double getBase()
+comment4.params=base
+comment4.target=void setBase(double)
+comment5.target=double getAltura()
+comment6.params=altura
+comment6.target=void setAltura(double)
+numComments=7

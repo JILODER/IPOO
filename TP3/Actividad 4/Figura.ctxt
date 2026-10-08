@@ -1,0 +1,9 @@
+#BlueJ class context
+#Thu Oct 08 14:07:37 ART 2026
+comment0.target=Figura
+comment1.params=color
+comment1.target=void setColor(java.lang.String)
+comment2.target=java.lang.String getColor()
+comment3.target=double calcularArea()
+comment4.target=void pintar()
+numComments=5

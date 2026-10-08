@@ -1,0 +1,12 @@
+#BlueJ class context
+#Thu Oct 08 14:13:43 ART 2026
+comment0.target=Editor
+comment1.target=Editor()
+comment2.params=f
+comment2.target=void agregarFigura(Figura)
+comment3.params=f
+comment3.target=void eliminarFigura(Figura)
+comment4.target=double calcularArea()
+comment5.target=void pintar()
+comment6.target=java.util.List getFiguras()
+numComments=7

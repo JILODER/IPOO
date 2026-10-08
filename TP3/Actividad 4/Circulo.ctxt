@@ -1,0 +1,10 @@
+#BlueJ class context
+#Thu Oct 08 13:59:09 ART 2026
+comment0.target=Circulo
+comment1.params=radio color
+comment1.target=Circulo(double, java.lang.String)
+comment2.target=double calcularArea()
+comment3.target=double getRadio()
+comment4.params=radio
+comment4.target=void setRadio(double)
+numComments=5
