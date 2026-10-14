@@ -1,0 +1,11 @@
+#BlueJ class context
+#Wed Oct 14 20:23:22 ART 2026
+comment0.target=Libreria
+comment1.target=Libreria()
+comment2.params=unLibro
+comment2.target=void agregarLibro(Libro)
+comment3.params=unLibro
+comment3.target=void eliminarLibro(Libro)
+comment4.target=int cantidadDeLibros()
+comment5.target=int cantidadTotalDeCopias()
+numComments=6

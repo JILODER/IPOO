@@ -1,0 +1,22 @@
+#BlueJ class context
+#Wed Oct 14 20:23:18 ART 2026
+comment0.target=Libro
+comment1.params=titulo autor anio mes dia personas copiasStock
+comment1.target=Libro(java.lang.String, java.lang.String, int, int, int, java.util.List, int)
+comment10.target=java.util.Date getFechaPubli()
+comment11.target=java.util.List getPersonajes()
+comment12.target=int getCopiasStock()
+comment2.params=titulo
+comment2.target=void setTitulo(java.lang.String)
+comment3.params=autor
+comment3.target=void setAutor(java.lang.String)
+comment4.params=anio mes dia
+comment4.target=void setFechaPubli(int, int, int)
+comment5.params=personajes
+comment5.target=void setPersonajes(java.util.List)
+comment6.params=copias
+comment6.target=void setCopias(int)
+comment7.target=java.lang.String getTitulo()
+comment8.target=java.lang.String getAutor()
+comment9.target=void mostrarFechaPubli()
+numComments=13
