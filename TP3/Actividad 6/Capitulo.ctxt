@@ -1,9 +1,0 @@
-#BlueJ class context
-#Fri Oct 16 12:27:17 ART 2026
-comment0.target=Capitulo
-comment1.params=nombre duracion numero
-comment1.target=Capitulo(java.lang.String, float, int)
-comment2.target=java.lang.String getNombre()
-comment3.target=float getDuracion()
-comment4.target=int getNumero()
-numComments=5
