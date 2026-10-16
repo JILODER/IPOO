@@ -1,0 +1,17 @@
+#BlueJ class context
+#Fri Oct 16 19:32:03 ART 2026
+comment0.target=ProduccionAudiovisual
+comment1.params=titulo anio actores director personajes
+comment1.target=ProduccionAudiovisual(java.lang.String, int, java.util.List, Director, java.util.List)
+comment2.params=actores
+comment2.target=void setActores(java.util.List)
+comment3.params=director
+comment3.target=void setDirector(Director)
+comment4.params=personajes
+comment4.target=void setPersonajes(java.util.List)
+comment5.target=java.lang.String getTitulo()
+comment6.target=int getAnio()
+comment7.target=java.util.List getActores()
+comment8.target=Director getDirector()
+comment9.target=java.util.List getPersonajes()
+numComments=10

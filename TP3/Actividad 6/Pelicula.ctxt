@@ -1,0 +1,6 @@
+#BlueJ class context
+#Fri Oct 16 19:32:06 ART 2026
+comment0.target=Pelicula
+comment1.params=titulo anio actores director personajes
+comment1.target=Pelicula(java.lang.String, int, java.util.List, Director, java.util.List)
+numComments=2
