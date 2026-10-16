@@ -1,0 +1,8 @@
+#BlueJ class context
+#Fri Oct 16 12:24:19 ART 2026
+comment0.target=Director
+comment1.params=nombre dirige
+comment1.target=Director(java.lang.String, java.lang.String)
+comment2.target=java.lang.String getNombre()
+comment3.target=java.lang.String getDirige()
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+#Fri Oct 16 12:19:30 ART 2026
+comment0.target=Actor
+comment1.params=nombre interpretacion
+comment1.target=Actor(java.lang.String, Personaje)
+comment2.target=java.lang.String getNombre()
+comment3.target=Personaje getInterpretacion()
+numComments=4

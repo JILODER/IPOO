@@ -1,0 +1,22 @@
+#BlueJ class context
+#Fri Oct 16 12:56:59 ART 2026
+comment0.target=Serie
+comment1.params=titulo anio actores director personajes capitulos cantCapitulos genero
+comment1.target=Serie(java.lang.String, int, java.util.List, Director, java.util.List, java.util.List, int, java.lang.String)
+comment10.target=java.util.List getPersonajes()
+comment11.target=java.util.List getCapitulos()
+comment12.target=int getCantCapitulos()
+comment13.target=java.lang.String getGenero()
+comment2.params=actores
+comment2.target=void setActores(java.util.List)
+comment3.params=director
+comment3.target=void setDirector(Director)
+comment4.params=personajes
+comment4.target=void setPersonajes(java.util.List)
+comment5.params=capitulos
+comment5.target=void setCapitulos(java.util.List)
+comment6.target=java.lang.String getTitulo()
+comment7.target=int getAnio()
+comment8.target=java.util.List getActores()
+comment9.target=Director getDirector()
+numComments=14
