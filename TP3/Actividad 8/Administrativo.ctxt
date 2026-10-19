@@ -1,0 +1,7 @@
+#BlueJ class context
+#Mon Oct 19 20:09:02 ART 2026
+comment0.target=Administrativo
+comment1.params=nombre dni direccion anioNacimiento sexo categoria antiguedad basico
+comment1.target=Administrativo(java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, int, int, double)
+comment2.target=double calcularSalario()
+numComments=3
