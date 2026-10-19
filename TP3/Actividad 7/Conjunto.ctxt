@@ -1,0 +1,20 @@
+#BlueJ class context
+#Sun Oct 18 21:14:27 ART 2026
+comment0.target=Conjunto
+comment1.target=Conjunto()
+comment10.target=java.lang.String toString()
+comment2.params=p
+comment2.target=void add(Persona)
+comment3.params=p
+comment3.target=void remove(Persona)
+comment4.params=aSet
+comment4.target=Conjunto union(java.util.Set)
+comment5.params=aSet
+comment5.target=Conjunto interseccion(java.util.Set)
+comment6.params=aSet
+comment6.target=Conjunto diferencia(java.util.Set)
+comment7.params=aSet
+comment7.target=Conjunto diferenciaSimetrica(java.util.Set)
+comment8.target=java.util.Set getElementos()
+comment9.target=int getSize()
+numComments=11

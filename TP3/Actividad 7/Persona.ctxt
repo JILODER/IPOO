@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sun Oct 18 21:14:24 ART 2026
+comment0.target=Persona
+comment1.params=nombre nroID
+comment1.target=Persona(java.lang.String, int)
+comment2.target=java.lang.String getNombre()
+comment3.target=int getNroID()
+comment4.target=java.lang.String toString()
+numComments=5
