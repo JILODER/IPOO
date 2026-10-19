@@ -1,7 +1,0 @@
-#BlueJ class context
-#Mon Oct 19 12:34:02 ART 2026
-comment0.target=Tecnico
-comment1.params=nombre dni direccion anioNacimiento sexo titulo contrato
-comment1.target=Tecnico(java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, java.lang.String, double)
-comment2.target=double calcularSalario()
-numComments=3
