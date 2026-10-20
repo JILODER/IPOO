@@ -1,4 +1,5 @@
 Ejercicio 9.
+
 Se desea modelar un Navegador de Internet o más comúnmente llamado Browser, similar al Google Chrome, Edge, FireFox, etc.
 El Browser es sencillo, solamente puede navegar por una Página web por vez. Esa sería la página actual o Current Page,
 la cual conoce. Al Browser, se le puede indicar cuál es la current page.
