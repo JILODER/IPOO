@@ -1,0 +1,10 @@
+#BlueJ class context
+#Fri Oct 23 19:08:23 ART 2026
+comment0.target=CuentaCorriente
+comment1.params=titular saldo maxExtracciones
+comment1.target=CuentaCorriente(Persona, double, int)
+comment2.target=int getMaxExtracciones()
+comment3.target=int getExtraccionesRealizadas()
+comment4.params=monto
+comment4.target=boolean puedeExtraer(double)
+numComments=5

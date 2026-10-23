@@ -1,0 +1,16 @@
+#BlueJ class context
+#Fri Oct 23 19:08:19 ART 2026
+comment0.target=CuentaBancaria
+comment1.params=titular saldo
+comment1.target=CuentaBancaria(Persona, double)
+comment2.params=unMonto
+comment2.target=void extraer(double)
+comment3.params=unMonto
+comment3.target=void depositar(double)
+comment4.target=double saldo()
+comment5.target=Persona nombreTitular()
+comment6.params=unMonto
+comment6.target=boolean puedeExtraer(double)
+comment7.params=monto tipo
+comment7.target=void registrarTransaccion(double, java.lang.String)
+numComments=8
