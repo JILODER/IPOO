@@ -1,0 +1,12 @@
+#BlueJ class context
+#Tue Oct 27 17:26:11 ART 2026
+comment0.target=ColaDoble
+comment1.target=ColaDoble()
+comment2.params=elemento
+comment2.target=void encolar(java.lang.Object)
+comment3.target=java.lang.Object desencolar()
+comment4.target=boolean isEmpty()
+comment5.target=int size()
+comment6.target=java.lang.Object first()
+comment7.target=java.lang.Object last()
+numComments=8

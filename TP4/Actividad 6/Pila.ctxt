@@ -1,0 +1,12 @@
+#BlueJ class context
+#Tue Oct 27 15:00:47 ART 2026
+comment0.target=Pila
+comment1.target=Pila()
+comment2.params=elemento
+comment2.target=void apilar(java.lang.Object)
+comment3.target=java.lang.Object desapilar()
+comment4.target=java.lang.Object top()
+comment5.target=java.lang.Object pop()
+comment6.target=int size()
+comment7.target=boolean isEmpty()
+numComments=8
