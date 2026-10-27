@@ -1,0 +1,9 @@
+#BlueJ class context
+#Mon Oct 26 19:28:02 ART 2026
+comment0.target=Moneda
+comment1.params=tipo
+comment1.target=Moneda(java.lang.String)
+comment2.target=java.lang.String getTipo()
+comment3.params=unMonto
+comment3.target=double convertirAPesos(double)
+numComments=4

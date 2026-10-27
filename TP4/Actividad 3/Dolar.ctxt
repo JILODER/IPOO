@@ -1,0 +1,10 @@
+#BlueJ class context
+#Mon Oct 26 19:34:11 ART 2026
+comment0.target=Dolar
+comment1.params=cotizacion
+comment1.target=Dolar(double)
+comment2.params=nuevaCotizacion
+comment2.target=void setCotizacion(double)
+comment3.params=monto
+comment3.target=double convertirAPesos(double)
+numComments=4

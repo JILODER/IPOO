@@ -1,0 +1,7 @@
+#BlueJ class context
+#Mon Oct 26 19:34:10 ART 2026
+comment0.target=Peso
+comment1.target=Peso()
+comment2.params=unMonto
+comment2.target=double convertirAPesos(double)
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+#Fri Oct 23 19:00:37 ART 2026
+comment0.target=Transaccion
+comment1.params=monto tipo
+comment1.target=Transaccion(double, java.lang.String)
+comment2.target=java.util.Date getFecha()
+comment3.target=double getMonto()
+comment4.target=java.lang.String getTipo()
+numComments=5
