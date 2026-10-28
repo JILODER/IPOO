@@ -1,0 +1,10 @@
+#BlueJ class context
+#Wed Oct 28 20:32:35 ART 2026
+comment0.target=SistemaGestorVentas
+comment1.params=libro comprador vendedor
+comment1.target=void addVenta(Libro, Cliente, Persona)
+comment2.params=venta
+comment2.target=double precioDe(Venta)
+comment3.target=double totalVentas()
+comment4.target=Venta ventaMasCara()
+numComments=5

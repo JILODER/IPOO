@@ -1,0 +1,10 @@
+#BlueJ class context
+#Wed Oct 28 20:28:09 ART 2026
+comment0.target=Venta
+comment1.params=libro comprador vendedor
+comment1.target=Venta(Libro, Cliente, Persona)
+comment2.target=Libro getLibro()
+comment3.target=Cliente getComprador()
+comment4.target=Persona getVendedor()
+comment5.target=java.util.Date getFechaVenta()
+numComments=6

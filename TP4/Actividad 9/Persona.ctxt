@@ -1,0 +1,8 @@
+#BlueJ class context
+#Wed Oct 28 20:08:42 ART 2026
+comment0.target=Persona
+comment1.params=nombre dni
+comment1.target=Persona(java.lang.String, java.lang.String)
+comment2.target=java.lang.String getNombre()
+comment3.target=java.lang.String getDni()
+numComments=4

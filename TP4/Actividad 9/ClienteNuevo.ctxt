@@ -1,0 +1,7 @@
+#BlueJ class context
+#Wed Oct 28 20:26:31 ART 2026
+comment0.target=ClienteNuevo
+comment1.params=nombre dni
+comment1.target=ClienteNuevo(java.lang.String, java.lang.String)
+comment2.target=double calcularDescuento()
+numComments=3
