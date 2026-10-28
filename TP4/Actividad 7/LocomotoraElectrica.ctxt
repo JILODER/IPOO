@@ -1,0 +1,8 @@
+#BlueJ class context
+#Tue Oct 27 23:17:12 ART 2026
+comment0.target=LocomotoraElectrica
+comment1.params=peso velocidadMax potenciaMax
+comment1.target=LocomotoraElectrica(double, double, double)
+comment2.params=km
+comment2.target=float cantidadDeLitrosNecesarios(int)
+numComments=3

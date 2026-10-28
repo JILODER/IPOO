@@ -1,0 +1,8 @@
+#BlueJ class context
+#Tue Oct 27 23:19:10 ART 2026
+comment0.target=LocomotoraFueloil
+comment1.params=peso velocidadMax potenciaMax
+comment1.target=LocomotoraFueloil(double, double, double)
+comment2.params=km
+comment2.target=float cantidadDeLitrosNecesarios(int)
+numComments=3

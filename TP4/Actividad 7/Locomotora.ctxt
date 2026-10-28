@@ -1,0 +1,11 @@
+#BlueJ class context
+#Tue Oct 27 23:15:42 ART 2026
+comment0.target=Locomotora
+comment1.params=peso velocidadMax potenciaMax
+comment1.target=Locomotora(double, double, double)
+comment2.params=km
+comment2.target=float cantidadDeLitrosNecesarios(int)
+comment3.target=double getPesoLocomotora()
+comment4.target=double getVelocidadMax()
+comment5.target=double getPotenciaMax()
+numComments=6

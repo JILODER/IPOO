@@ -1,0 +1,9 @@
+#BlueJ class context
+#Tue Oct 27 23:29:11 ART 2026
+comment0.target=VagonPasajero
+comment1.params=peso cantPasajeros
+comment1.target=VagonPasajero(double, int)
+comment2.target=int cantidadDePasajeros()
+comment3.target=double calcularPeso()
+comment4.target=double getPorcentajeReduccionVelocidad()
+numComments=5

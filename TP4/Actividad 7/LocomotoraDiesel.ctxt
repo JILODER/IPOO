@@ -1,0 +1,8 @@
+#BlueJ class context
+#Tue Oct 27 23:18:38 ART 2026
+comment0.target=LocomotoraDiesel
+comment1.params=peso velocidadMax potenciaMax
+comment1.target=LocomotoraDiesel(double, double, double)
+comment2.params=km
+comment2.target=float cantidadDeLitrosNecesarios(int)
+numComments=3

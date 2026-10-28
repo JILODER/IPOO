@@ -1,0 +1,15 @@
+#BlueJ class context
+#Tue Oct 27 23:29:17 ART 2026
+comment0.target=Tren
+comment1.params=locomotora
+comment1.target=Tren(Locomotora)
+comment2.params=v
+comment2.target=void engancharVagon(Vagon)
+comment3.params=km
+comment3.target=float cantidadDeLitrosNecesarios(int)
+comment4.target=double pesoTotalTren()
+comment5.params=vagones
+comment5.target=boolean puedeMover(java.util.Vector)
+comment6.target=int cantidadDePasajeros()
+comment7.target=double velocidadMaxima()
+numComments=8
