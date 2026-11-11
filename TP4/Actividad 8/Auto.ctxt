@@ -1,0 +1,7 @@
+#BlueJ class context
+#Tue Nov 10 18:49:00 ART 2026
+comment0.target=Auto
+comment1.params=numeroID valorFiscal duenio
+comment1.target=Auto(int, float, Persona)
+comment2.target=float calcularImpuesto()
+numComments=3

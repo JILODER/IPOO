@@ -1,0 +1,7 @@
+#BlueJ class context
+#Tue Nov 10 23:28:19 ART 2026
+comment0.target=CobroAnual
+comment1.params=bien
+comment1.target=CobroAnual(Bien)
+comment2.target=float calcularImporte()
+numComments=3

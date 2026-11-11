@@ -1,0 +1,16 @@
+#BlueJ class context
+#Tue Nov 10 23:37:00 ART 2026
+comment0.target=ARBA
+comment1.target=ARBA()
+comment2.params=bien meses
+comment2.target=void agregarCobroCouta(Bien, int)
+comment3.params=bien
+comment3.target=void agregarCobroAnual(Bien)
+comment4.params=cobro
+comment4.target=float valorCobro(Cobro)
+comment5.target=float sumaCobros()
+comment6.target=Cobro cobroMayor()
+comment7.params=valor
+comment7.target=java.util.Vector cobrosMayoresA(float)
+comment8.target=float valorFiscal()
+numComments=9

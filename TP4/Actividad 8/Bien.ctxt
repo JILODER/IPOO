@@ -1,0 +1,8 @@
+#BlueJ class context
+#Tue Nov 10 18:40:16 ART 2026
+comment0.target=Bien
+comment1.params=numeroID valorFiscal duenio
+comment1.target=Bien(int, float, Persona)
+comment2.target=float getValorFiscal()
+comment3.target=float calcularImpuesto()
+numComments=4
