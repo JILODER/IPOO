@@ -1,0 +1,7 @@
+#BlueJ class context
+#Wed Nov 11 19:35:30 ART 2026
+comment0.target=Auto
+comment1.params=marca modelo valuacion
+comment1.target=Auto(java.lang.String, java.lang.String, float)
+comment2.target=float getValuacion()
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+#Wed Nov 11 20:09:27 ART 2026
+comment0.target=Aseguradora
+comment1.params=auto nombre
+comment1.target=void asegurarAutoParcial(Auto, java.lang.String)
+comment2.params=auto nombre
+comment2.target=void asegurarAutoTotal(Auto, java.lang.String)
+comment3.params=unaPoliza
+comment3.target=float montoAPagar(Poliza)
+comment4.target=float montoTotalAsegurado()
+comment5.target=float montoTotalACobrar()
+comment6.target=int cantidadDePolizas()
+numComments=7

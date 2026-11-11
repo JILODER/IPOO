@@ -1,0 +1,8 @@
+#BlueJ class context
+#Wed Nov 11 19:37:59 ART 2026
+comment0.target=Poliza
+comment1.params=nombreAsegurado auto
+comment1.target=Poliza(java.lang.String, Auto)
+comment2.target=Auto getAuto()
+comment3.target=float valorPoliza()
+numComments=4
